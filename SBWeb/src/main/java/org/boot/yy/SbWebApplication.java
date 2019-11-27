@@ -1,5 +1,5 @@
 package org.boot.yy;
-//1234
+//123456
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
